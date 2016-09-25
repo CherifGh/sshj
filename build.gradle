@@ -64,7 +64,7 @@ test {
     }
 }
 
-def bouncycastleVersion = "1.51"
+def bouncycastleVersion = "1.55"
 
 dependencies {
     compile "org.slf4j:slf4j-api:1.7.7"
